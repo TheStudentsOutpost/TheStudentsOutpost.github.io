@@ -2,7 +2,8 @@
   "meta": {
     "username": "TheStudentsOutpost",
     "repositoryName": "TheStudentsOutpost.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": "http://thestudentsoutpost.org/"
   },
   "theme": {
     "name": "casper"
@@ -22,5 +23,27 @@
       null,
       null
     ]
+  },
+  "site": {
+    "title": "The Students Outpost",
+    "description": "",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "googleAnalytics": "",
+    "disqus": "thestudentsoutpost"
+  },
+  "socialnetwork": {
+    "email": "",
+    "github": "",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/TheStudentsOutpost/",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": ""
   }
 }

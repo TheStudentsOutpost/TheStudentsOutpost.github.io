@@ -1,6 +1,6 @@
 = All India Convention for Students' Struggles
 // See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
-// http://i.imgur.com/h6I0mzf.jpg
+http://i.imgur.com/h6I0mzf.jpg
 // :published_at: 2017-08-10
 // :hp-tags: Students, Struggle, Bangalore, Declaration
 // :hp-alt-title: AICSS
